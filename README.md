@@ -17,7 +17,7 @@ $ git version
 ## Clone this repo to local machine
 
 ## Change directory to src folder
-$ cd nodejs-express-hello-world/src/
+$ cd nodejs-express-hello-world/
 
 ## Install app dependency
 $ npm install
@@ -44,7 +44,7 @@ $ git version
 ## Clone this repo to local machine
 
 ## Change directory to src folder
-$ cd nodejs-express-hello-world/src/
+$ cd nodejs-express-hello-world/
 
 ## Build image
 $ docker build -t <your username>/node-web-app:v1 .
@@ -79,7 +79,7 @@ $ git version
 ## Clone this repo to local machine
 
 ## Change directory to src folder
-$ cd nodejs-express-hello-world/src/
+$ cd nodejs-express-hello-world/
 
 ## Build image
 $ docker build -t <your username>/node-web-app:v1 .
